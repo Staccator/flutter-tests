@@ -42,7 +42,7 @@ void main() {
     });
   });
 
-  group('pi', () {
+  group('pi ', () {
     test('pi returns 3, 3.1, 3.14 in that order', () async {
       expect(calculator.pi(), emitsInOrder([3, 3.1, 3.14]));
     });
