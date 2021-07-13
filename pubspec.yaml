@@ -13,6 +13,7 @@ dependencies:
     sdk: flutter
   dartx: ^0.7.1
   rxdart: ^0.27.1
+  bloc_test: ^8.0.2
 
 dev_dependencies:
   flutter_test:
